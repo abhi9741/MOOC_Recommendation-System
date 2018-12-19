@@ -1,0 +1,300 @@
+SEMESTER 1
+
+MBD 111 STATISTICAL METHODS
+
+Data Collection & Visualization: Concepts of measurement, scales of measurement, design of data collection formats with illustration, data quality and issues with date collection systems with examples from business, cleaning and treatment of missing data, principles of data visualization, different method of presenting data in business analytics.
+
+Basic Statistics: Frequency table, histogram, measures of location, measures of spread, skewness, kurtosis, percentiles, box plot, correlation and simple linear regression, partial correlation, probability distribution as a statistics model, fitting probability distributions, empirical distributions, checking goodness of fit through plots and tests.
+
+Contingency Tables: Two way contingency tables, measures of association, testing for dependence.
+
+MBD 112 PROBABILITY DISTRIBUTIONS
+
+Discrete Distributions: Binomial, Poisson, multinomial, hypergeometric, negative binomial, uniform. The (a,b,0) class of distributions. Moments, quantiles, cdf, survival function and other properties.
+
+Continuous Distributions: Uniform, Normal, Exponential, gamma, Weibull, Pareto,
+lognormal, Laplace, Cauchy, Logistic distributions; properties and applications. Functions of random variables and their distributions using Jacobian of transformation and other tools.
+
+Bivariate normal and bivariate exponential distributions.
+
+Concept of a sampling distribution. Sampling distributions of t, χ2 and F (central and non-central), their properties and applications. Multivariate normal distribution. Distribution of linear function of normal random variables. Characteristic function of the multivariate
+normal distribution. Distribution of quadratic forms. Cochran’s theorem. Independence of
+quadratic forms.
+
+Compound, truncated and mixture distributions. Convolutions of two distributions. Order
+statistics: their distributions and properties. Joint, marginal and conditional distribution of
+order statistics. The distribution of range and median. Extreme values and their asymptotic distribution (statement only) with applications.
+
+MBD 113 LINEAR ALGEBRA & MATRIX THEORY
+
+Fields, System of Linear Equations 
+Matrices, Elementary Row Operations, Row Reduced Matrices, Invertible Matrices, Vector spaces, Subspaces, Linear Combinations, Linear span, Linear dependence and Linear independence of vectors, Basis and Dimension, Ordered Basis, Finite dimensional vector spaces,  Sum and Direct sum of subspaces,       
+Linear transformations and their representation as matrices, Kernel and Image of a linear transformation, Rank and Nullity Theorem, Change of Basis, 
+Eigen values and Eigen vectors of a linear transformation (matrices), Characteristic polynomial and minimal polynomial, Diagonalization of linear operators, invariant subspaces, Jordon form                                                                                     
+Inner product spaces, Cauchy-Schwarz-inequality, Orthogonal vectors, Orthonormal sets and bases, Positive Definite and Positive Semi-definite Matrices, Linear functional on an Inner Product Space and Adjoint of a Linear operator, Self-adjoint operators, Normal Operators, Spectral theorem.
+
+MBD114 COMPUTING FOR DATA SCIENCES
+
+Computer Package: Usage of R & Python with illustration.
+
+Concepts of Computation: Algorithms, Convergence, Complexity with illustrations, some
+sorting & searching algorithms, some numerical methods e.g. Newton Raphson, Steepest
+ascent.
+
+Computing Methodologies: Monte-Carlo simulations of random numbers and various
+statistical methods, memory handling strategies for big data.
+
+MBD 115 DATABASE MANAGEMENT
+
+Basic Concepts: Need, purpose and goal of DBMS, Three tier architecture, ER Diagram,
+data models- Relational, Network, Hierarchical. Database Design: Conceptual data base design, concept of physical and logical databases, data abstraction and data independence, data aggregation
+
+Relational data base: Relations, Relational Algebra, Theory of Normalization, Functional Dependency, Primitive and Composite data types,  
+
+Application Development using SQL: DDL and DML, Host Language interface, embedded SQL programming, Stored procedures and triggers and views, Constraints assertions.
+
+Internal of RDBMS: Physical data organization in sequential, indexed random and hashed files. Inverted and multilist structures, B trees, B+ trees, Query Optimization, Join
+Algorithm, Statistics and Cost Base optimization. Parallel and distributed data base.
+
+Transaction Processing, concurrency control, and recovery management. Transaction model properties and state serializability. Lock base protocols, two phase locking.
+
+NoSQL Databases
+
+MBD 116 PROFESSIONAL COMMUNICATION
+
+Grammar and Vocabulary: Tenses, subject–verb agreement. Sentence Analysis: Simple, Compound and Complex sentences. Phrases: Adjective, Adverb and Noun Phrase, Clauses: Adjective, Adverb and Noun Phrase. Voice, Narration, Gerund, Participle.
+
+Oral Communication: Listening Skill – Active listening, Barriers to active listening, Speaking Skill- Stress patterns in English, Questioning skills, Barriers in Speaking, Reading Skill- Skimming, Scanning, Intensive reading, linking devices in a text, Different versions of a story/ incident
+
+Written communication: Writing process, paragraph organization, writing styles, Types of Writing - Technical vs. creative; Types of technical writing, Scientific Writing: Writing a Scientific Report
+
+Soft Skills: Body Language – Gesture, posture, facial expression.
+
+Group Discussion – Giving up of PREP, REP Technique.
+
+Presentation Skills: (i) How to make power point presentation (ii) Body language during
+presentation (iii) Resume writing: Cover letter, career objective, Resume writing (tailor made)
+
+Interview Skills: Stress Management, Answering skills.
+
+MBD117	PYTHON WITH JAVA
+
+Introduction to Python: The basic elements of python, Branching Programs, Control Structures, Strings and Input, Iteration, Functions, Scoping and Abstraction, Functions and scoping, Specifications, Recursion, Global variables, Modules ,Files , System Functions and Parameters,
+Python Data Structures: Structured Types, Mutability and Higher-Order Functions, Strings, Tuples, Lists and Dictionaries, Lists and Mutability, Functions as Objects, Testing, Debugging, Exceptions and Assertions, Types of testing – Black-box and Glass-box, Debugging, Handling Exceptions, Assertions. Simple Algorithms and Data structures, Search Algorithms, Sorting Algorithms, Hash Tables.
+Object Oriented Python: Classes and Object-Oriented Programming, Abstract Data Types and Classes, Inheritance, Encapsulation and Information Hiding, 
+Regular Expressions – REs and Python, Plotting using PyLab 
+Introduction to Java: Overview and characteristics of Java, Java program compilation and execution process, Organization of JVM, JVM as interpreter and emulator, sandbox model. Data Types, primitive variables, arrays, operators, Control statements, standard input-output and main method. 
+Object Oriented concepts: Concept of encapsulation and abstraction, Designing Classes, objects, instance variables and methods, Class modifiers, Inheritance, Interfaces, Abstract classes, Polymorphism: overloading and overriding, Composition.
+Constructors: use of this and super, Java Stack and Heap, Garbage collection. Static methods and variables, Wrapper classes, Autoboxing, Standard classes: Math and String
+Exception Handling & applications: exception types, nested try-catch, throw, throws and finally statements. Multithread Programming: thread creation, synchronization and priorities. Input-output and file operations: Java.io, Object serialization and deserialization. 
+Java Collections API: Arraylist, Set, list, Map, Hashtable, Comparator and comparable
+Database connectivity, Java Packages, creating a jar file
+
+SEMESTER 2
+
+MBD 211 FOUNDATIONS OF DATA SCIENCE 
+
+High Dimensional Space: Properties, Law of large number, Sphere and cube in high dimension, Generation points on the surface of sphere, Gaussians in high dimension, Random projection, Applications.
+
+Random Graphs: Large graphs, G(n,p) model, Giant Component, Connectivity, Cycles, Non-Uniform models, Applications.
+
+Singular Value Decomposition (SVD): Best rank k approximation, Power method for computing the SVD, PCA.
+
+Random Walks and Markov Chains: Properties of random walks, Stationary distributions, Random walks on undirected graphs with unit edge weights, Random walks in Euclidean space, Markov Chain Monte Carlo.
+
+Algorithm for Massive Data Problems, Frequency moments of data streams, Matrix algorithms using sampling.
+
+The General Models for Massive Data Problems: Topic Models - Non-Negative Matrix Factorization, Latent Dirichlet Allocation (LDA), Hidden Markov Models, Graphical Models and Belief Propagation, Bayesian Networks, Markov Random Fields.
+
+MBD 212 ADVANCE STATISTICAL METHODS
+
+Estimation: Unbiasedness, Consistency, UMVUE, Maximum likelihood estimates. Test of Hypotheses: Two types of errors, test statistic, parametric tests for equality of means & variances.
+
+Gauss Markov Model, least square estimators, Analysis of variance. Regression: Multiple linear regression, forward, backward & stepwise regression, Logistic regression
+
+MBD 213 MACHINE LEARNING
+
+Basics: Introduction to Machine Learning - Different Forms of Learning
+
+Classification: Classification tree, SVM, Instance Based Classification, LDA, Multiclass Classification
+
+Clustering: Partitional Clustering - K-Means, K-Medoids, Hierarchical Clustering - Agglomerative, Divisive, Distance Measures, Density Based Clustering – DBscan, Spectral Clustering
+
+Ensemble Methods: Boosting - Adaboost, Gradient Boosting, Bagging - Simple Methods,
+Random Forest
+
+Dimensionality Reduction: Multidimensional Scaling, and Manifold Learning
+
+Reinforcement Learning: Q-Learning, Temporal Difference Learning
+
+MBD 214 VALUE THINKING
+
+This course involves watching few movies (list provided below) such as Twelve Angry Men, Roshman, and reading few books (list provided below) that deals mostly with argumentative logic, evidence, drawing inference from evidences. After watching each movie and reading each book, there will be general discussion amongst the students. Each student will prepare a term paper. Evaluation will be on the basis of this term paper and participation in group discussion.
+
+MBD 215 COMBINATORIAL OPTIMIZATION
+
+Linear Programming: Linear programming problem, Simplex method, Revised Simplex
+method, Duality, Dual Simplex, Interior Point Method.
+
+Combinatorial Optimization Problems: Transportation problem, Assignment problem,
+Shortest path problem, Max-Flow and Min-cut problem.
+
+Dynamic Programming, Knapsack problem
+
+Branch and Bound.
+
+Non-Linear Unconstrained Optimization.
+
+Greedy Algorithms, Local search
+
+MBD 216 INTRODUCTION TO ECONOMETRICS & FINANCE
+
+Basics of Finance: Time value of money, concept of present and future value analysis, stock and bond valuations, risk and return, Systematic and unsystematic risk, Diversification, cost of capital, capital structure, Dividend Discount Model, Portfolio Theory, Efficient Market Hypothesis (EMH), Capital asset pricing model (CAPM), Market Volatility, Options. 
+Introduction to Econometrics (using finance concepts): Assumptions of Classical Linear Regression Model, Ordinary Least Squares approaches, Autocorrelation, Heteroscedasticity, Multicollineariry, Dummy Variable approaches, Distributed lag models                                                                
+A brief Introduction to Time Series and Panel data models, Components of time series, Stationary and non-stationary time series, ARMA and ARIMA models, Static panel data models: fixed effects and random effects.
+
+SEMESTER 3
+
+MBD 311 MODELLING IN OPERATIONS MANAGEMENT
+
+Venture analytics
+
+Banking analytics
+
+Marketing analytics
+
+Healthcare analytics
+
+Retail analytics
+
+Supply chain analytics
+
+MBD 312 ENABLING TECHNOLOGIES FOR DATA SCIENCE
+
+Big Data and Hadoop: Hadoop architecture, Hadoop Versioning and configuration, Single node & Multi-node Hadoop, Hadoop commands, Models in Handoop, Hadoop daemon, Task instance, illustrations.
+
+Map-Reduce: Framework, Developing Map-Reduce program, Life cycle method,
+Serialization, Running Map Reduce in local and pseudo-distributed mode, illustrations.
+
+HIVE: Installation, data types and commands, illustration.
+
+SQOOP: Installation, importing data, Exporting data, Running, illustrations
+
+PIG: Installation, Schema, Commands, illustrations.
+
+MBD 313 DATA MINING
+
+Data Mining: Introduction, Techniques, Issues and challenges, applications, Data preprocessing, Knowledge representation
+Association Rule Mining: Introduction, Methods to discover association rules, Association rules with item constraints
+Decision Trees: Introduction, Tree construction principle, Decision tree construction algorithm, Pruning techniques, Integration of pruning and construction
+Cluster analysis: Introduction, clustering paradigms, Similarity and distance, Density, Characteristics of clustering algorithms, Center based clustering techniques, Hierarchical clustering, Density based clustering, Other clustering techniques, Scalable clustering algorithms, Cluster evaluation
+Feature Selection
+Advanced techniques: Web mining - Introduction, Web content mining, Web structure mining, Web usage mining; Text mining- Unstructured text, Episode rule discovery from text, Text clustering; Temporal data mining – Temporal association rules, Sequence mining, Episode discovery, time series analysis; Spatial data mining – Spatial mining tasks, Spatial clustering, Spatial trends.
+
+MBD 314 TIME SERIES & FORECASTING
+
+Basics of Time series: A model Building strategy, Time series and Stochastic process,
+stationarity, Auto correlation, meaning and definition – causes of auto correlation -
+consequence of autocorrelation – test for auto – correlation. Study of Time Series model and their properties using correlogram, ACF and PACF. Yule walker equations
+
+Time Series Models: White noise Process, Random walk, MA, AR, ARMA and ARIMA
+models, Box- Jenkins’s Methodology fitting of AR(1), AR(2), MA(1), MA(2) and
+ARIMA(1,1) process. Unit root hypothesis, Co-integration, Dicky Fuller test unit root test, augmented Dickey – Fuller test.
+
+Non-linear time series models, ARCH and GARCH Process, order identification, estimation and diagnostic tests and forecasting. Study of ARCH (1) properties. GARCH (Conception only) process for modelling volatility.
+
+Multivariate Liner Time series: Introduction, Cross covariance and correlation matrices,
+testing of zero cross correlation and model representation. Basic idea of Stationary vector
+Autoregressive Time Series with order one: Model Structure, Granger Causality, stationarity condition, Estimation, Model checking.
+
+MBD 315 MULTIVARIATE STATISTICS
+
+Review of Multivariate Normal Distribution (MVND) and related distributional results.
+
+Random sampling from MVND, Unbiased and maximum likelihood estimators of parameters of MVND, their sampling distributions, independence. Correlation matrix
+and its MLE. Partial and multiple correlation coefficients, their maximum likelihood
+estimators (MLE)
+
+Wishart distribution and its properties (only statement). Hotelling's T2 and its applications.
+
+Hotelling's T2 statistic as a generalization of square of Student's statistic. Distance between two populations, Mahalnobis D2 statistic and its relation with Hotelling's T2 statistic.
+
+Classification problem, discriminant analysis.
+
+Principle component analysis.
+
+Canonical correlation.
+
+Factor Analysis
+
+Cluster Analysis
+
+MBD 316 CLOUD COMPUTING
+
+Overview of Computing Paradigm, Recent trends in Computing Grid Computing, Cluster
+Computing, Distributed Computing, Utility Computing, Cloud Computing Evolution of
+cloud computing Business driver for adopting cloud computing.
+
+Introduction to Cloud Computing. Cloud Computing (NIST Model) Introduction to Cloud Computing, History of Cloud Computing, Cloud service providers. Properties,
+Characteristics & Disadvantages Pros and Cons of Cloud Computing.
+
+Cloud Computing Architecture, ,Comparison with traditional computing architecture
+(client/server), Services provided at various levels, How Cloud Computing Works, Role of Networks in Cloud computing, protocols used, Role of Web services
+
+Service Models (XaaS),Infrastructure as a Service(IaaS),Platform as a Service(PaaS),
+Software as a Service(SaaS),Deployment Models ,Public cloud, Private cloud, Hybrid cloud Community cloud, Infrastructure as a Service(IaaS). Introduction to virtualization, Different approaches to virtualization, Hypervisors, Machine Image, Virtual Machine(VM).
+
+Examples, Amazon EC2, Renting, EC2 Compute Unit, Platform and Storage, pricing,
+customers Eucalyptus, Platform as a Service(PaaS),Introduction to PaaS, What is PaaS,
+Service Oriented Architecture (SOA).
+
+Examples: Google App Engine, Microsoft Azure, SalesForce.com’s Force.com platform
+
+Software as a Service (PaaS): Introduction to SaaS, Web services, Web 2.0, Web OS, Case
+Study on SaaS
+
+Cloud Security. Case Study on Open Source & Commercial CloudsMBD 317 BIOINFORMATICS
+
+Sequence Alignment problem & Algorithm. Pairwise & Multiple sequence Alignment.
+Advance Alignment Method.
+Gibbs Sampling
+Population Genomics.
+Genetic Mapping.
+Disease Mapping
+Gene Recognition
+Transcriptome & Evolution.
+Protein Structure.
+Protein Motifs.
+Hidden Markov Models
+Lattice Model.
+Algorithms.
+MBD 318 SOFTWARE ENGINEERING 
+
+Software Development Life Cycle: Software Process, Software Development Life Cycle Models
+
+Software Requirement Engineering: Requirement Engineering Process 
+
+Function-oriented Design: Introduction to Structured Analysis, Data Flow Diagram, Process Specification, Entity Relationship(ER) Model, Structured Design Methodologies, Design Metrics
+
+Object Oriented Concepts & Principles: Key Concepts, Relationships: Is-A Relationship, Has-A Relationship, Uses-A Relationship 
+
+Modelling Techniques: Booch OO Design Model, Rumbaugh’s Object Modelling Technique, Jacobson’s model, The Unified Approach to Modelling, Unified Modelling Language (UML). 
+
+Object Oriented Analysis & Design: Use-Case Modelling, Use-Case Realization, Class Classification Approaches: Noun Phrase Approach, CRC Card Approach, Use-case Driven Approach, Identification of Classes, Relationship, Attributes and Method. System Context and Architectural Design, Principles of Class Design, Types of Design Classes 
+
+UML 2.0 diagrams: Structure diagrams, Behavior diagrams 
+
+Software coding and Testing: Coding standards and guidelines, Code review techniques, Testing Fundamentals, Verification & Validation, Black Box Testing, White Box Testing, Unit Testing, Integration Testing, System Testing, Object Oriented System Testing. 
+
+Emerging Trends: Architecture styles, Service Oriented Architecture (SOA), CORBA, COM/DCOM 
+
+Web Engineering: General Web Characteristics, Emergence of Web Engineering, Web Engineering Process, Web Design Principles, Web Metrics 
+
+SEMESTER 4
+
+MBD 411 Internship based project
+
+A real-life project must be undertaken at an undertaken at an industry for 20 weeks.
+Each student will have two supervisors: Once from academic institution and one from the
+industry. The project shall involve handling data extensively and use of methodologies
+learnt during the course work to derive meaningful inferences. A final project report has to be submitted and an “open” presentation has to be made.
